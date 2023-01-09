@@ -6,7 +6,7 @@
 /*imagen*/
 .header::before{
     position: absolute;
-    background-image: url(../unnamed.jpg);
+    background-image: url(../img/yo.jpeg);
     background-size: cover;
     width: 275px;
     height: 275px;
